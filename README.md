@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ### About me
+Research Fellow @ Auckland Bioengineering Institute
+
 I am currently working on computer vision, machine learning, and computational modelling projects. Some of my repositories are private!  
 
 
