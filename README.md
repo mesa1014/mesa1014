@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About me
-I am currently working on computer vision, machine learning, and computational modelling projects. 
+I am currently working on computer vision, machine learning, and computational modelling projects. Some of my repositories are private!  
 
 
 ### Languages & Tools:
